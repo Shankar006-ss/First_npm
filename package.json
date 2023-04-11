@@ -1,0 +1,24 @@
+{
+  "name": "first-npm-shankar-0.1.0",
+  "version": "1.0.0",
+  "description": "This is my Very first npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shankar006-ss/First_npm.git"
+  },
+  "keywords": [
+    "Welcome",
+    "Start",
+    "New"
+  ],
+  "author": "Er.Shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shankar006-ss/First_npm/issues"
+  },
+  "homepage": "https://github.com/Shankar006-ss/First_npm#readme"
+}
